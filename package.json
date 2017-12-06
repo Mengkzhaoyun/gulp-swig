@@ -1,18 +1,18 @@
 {
-  "name": "gulp-swig",
+  "name": "gulp-swigtemplates",
   "version": "0.8.0",
   "description": "Swig Plugin for Gulp",
   "keywords": [
     "gulpplugin",
     "swig"
   ],
-  "repository": "https://github.com/colynb/gulp-swig",
-  "author": "Colyn Brown <colyn.brown@gmail.com>",
+  "repository": "https://github.com/Mengkzhaoyun/gulp-swig",
+  "author": "Zhaoyun Mengk <mengkzhaoyun@gmail.com>",
   "dependencies": {
     "event-stream": "~3.0.15",
     "clone": "~0.1.9",
     "gulp-util": "~2.2.14",
-    "swig": "1.4.*",
+    "swig-templates": "~2.0.2",
     "gulp": "~3.5.1"
   },
   "main": "index.js",
